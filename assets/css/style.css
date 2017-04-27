@@ -1,0 +1,49 @@
+
+html, body {
+	height           : 100%;
+	width            : 100%;
+	margin           : 0;
+	padding          : 0;
+
+}
+.sign{
+	text-align:center;
+	size:9px;
+	color:blue;
+}
+.white {
+	background-color : #fff;
+}
+h1{
+	color:#87CEEB;
+}
+#button{
+	background-color: white;
+}
+#stopw{
+	background-color: white;
+}
+#blue {
+	background-color : #87CEEB;
+}
+
+.red {
+	background-color : #C1392B;
+}
+
+.yellow {
+	background-color : #F1C40F;
+	
+}
+.image{
+min-height:100px;
+height:100px;
+min-width:100px;
+width:100px;
+}
+.img{
+min-height:100px;
+height:100px;
+min-width:100px;
+width:100px;
+}
